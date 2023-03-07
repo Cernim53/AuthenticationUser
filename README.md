@@ -8,31 +8,43 @@
 
 Требования
 
-MongoDB(https://www.mongodb.com/try/download/community)
-Node(https://nodejs.org/en/)
+* [MongoDB] (https: //www. mongodb.com/ try/download/community)
+* [Node] (https: //nodejs.org/en/)
 
-Перейдите в папку сервера и установите пакеты npm для сервера.
+* Перейдите в папку сервера и установите пакеты npm для сервера.
 
- npm install
+```bash
+    npm install
+  ```
  
- Создание файла .env в папке сервера.
+* Создание файла .env в папке сервера.
  
- touch .env
+ ```bash
+    touch .env
+  ```
  
- Затем создайте TOKEN_SECRET, используя буквы, цифры и символы.
+* Затем создайте TOKEN_SECRET, используя буквы, цифры и символы.
  
- TOKEN_SECRET=kwqejnrlkqwe%423%@$^klsd;flka1
+  ```bash
+      TOKEN_SECRET=kwqejnrlkqwe%423%@$^klsd;flka1
+    ```
  
- Запустить сервер
+* Запустить сервер
  
-   npm start
+```bash
+    npm start
+  ```
    
- Перейдите в папку клиента и установите пакеты npm для клиента.
+* Перейдите в папку клиента и установите пакеты npm для клиента.
    
-   npm install
+  ```bash
+    npm install
+  ```
    
-   Запустить клиент
+  * Запустить клиент
    
-   npm run serve
+ ```bash
+    npm run serve
+  ```
    
    
