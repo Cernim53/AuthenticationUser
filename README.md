@@ -8,8 +8,8 @@
 
 ### Требования
 
-* [MongoDB] (https: //www. mongodb.com/ try/download/community)
-* [Node] (https: //nodejs.org/en/)
+* [MongoDB](https://www.mongodb.com/try/download/community)
+* [Node](https://nodejs.org/en/)
 
 * Перейдите в папку сервера и установите пакеты npm для сервера.
 
